@@ -1,1 +1,1 @@
-# UAS_PRAK-SKD_ILHAM
+Program bisa dijalankan apabila format file jpg,jpeg dan png, memasukkan gambar kedalam folder program kemudian run program dengan memasukkan file gambar ke dalam program kemudian run hasilnya akan keluar di dalam folder
